@@ -1,0 +1,15 @@
+{
+  "name": "uswitch-antonio-puleo",
+  "version": "1.0.0",
+  "description": "uSwitch technical exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Antonio Puleo",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
